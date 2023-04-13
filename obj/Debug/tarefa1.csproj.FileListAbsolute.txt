@@ -1,0 +1,12 @@
+D:\tarefa1\tarefa1\bin\Debug\tarefa1.exe.config
+D:\tarefa1\tarefa1\bin\Debug\tarefa1.exe
+D:\tarefa1\tarefa1\bin\Debug\tarefa1.pdb
+D:\tarefa1\tarefa1\obj\Debug\tarefa1.csproj.AssemblyReference.cache
+D:\tarefa1\tarefa1\obj\Debug\tarefa1.csproj.SuggestedBindingRedirects.cache
+D:\tarefa1\tarefa1\obj\Debug\tarefa1.Cadastro.resources
+D:\tarefa1\tarefa1\obj\Debug\tarefa1.Form1.resources
+D:\tarefa1\tarefa1\obj\Debug\tarefa1.Properties.Resources.resources
+D:\tarefa1\tarefa1\obj\Debug\tarefa1.csproj.GenerateResource.cache
+D:\tarefa1\tarefa1\obj\Debug\tarefa1.csproj.CoreCompileInputs.cache
+D:\tarefa1\tarefa1\obj\Debug\tarefa1.exe
+D:\tarefa1\tarefa1\obj\Debug\tarefa1.pdb
